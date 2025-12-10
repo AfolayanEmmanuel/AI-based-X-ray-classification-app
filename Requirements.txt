@@ -1,0 +1,28 @@
+Core ML libraries
+tensorflow
+numpy
+
+Image processing
+opencv-python-headless
+Pillow
+
+GUI (Tkinter is usually included with Python)
+tk
+
+Web deployment (optional, for Streamlit or Gradio apps)
+streamlit
+gradio
+
+Utilities
+pandas
+matplotlib   - Optional, for plotting training history if needed
+scikit-learn - Optional, for preprocessing or metrics during training
+
+File handling / CSV
+csv         - Built-in, no need to install, but included for clarity
+
+OS / system utilities
+os          - Built-in, for directory handling
+
+Date / time utilities
+datetime    - Built-in, for timestamping predictions
