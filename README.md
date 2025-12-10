@@ -1,4 +1,4 @@
 # AI-based-X-ray-classification-app
 ## Screenshots
-![result page](screenshots/resultpage.png)
+![Result Page](result-page.png)
 
